@@ -39,7 +39,6 @@ int Keyboard::getValidatedInt(string prompt, int min, int max)
 
 double Keyboard::readDouble(string prompt)
 {
-//Alligator oiuyhgcfgyugfyugv
    cout << prompt;
    double val = 0;
    cin >> val;
